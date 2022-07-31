@@ -29,6 +29,10 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
+<img width="1440" alt="Screen Shot 2022-07-31 at 11 50 26 AM" src="https://user-images.githubusercontent.com/87586865/182028170-34e68f8e-7317-4573-8fd7-32db375aaa4d.png">
+
+
+
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
